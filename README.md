@@ -1,6 +1,6 @@
 ### Olá 👋 Sou Elenkarla Silva
 
-- 🔭 I’m currently working with task automation
+- 🔭 I’m currently working how DevOps na Bemol Digital
 - 🌱 I’m currently studying software engineering 
 <div> 
   <a href = "https://www.linkedin.com/in/elen-da-silva-23b2a3ab">

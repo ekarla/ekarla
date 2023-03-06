@@ -1,11 +1,10 @@
 ### Olá 👋 Sou Elenkarla Silva
 
 - 🔭 I’m currently working how DevOps na Bemol Digital
-- 🌱 I’m currently studying software engineering 
+- 🌱 I’m currently studying software engineering in UFAM
+- 🌱 I have certifications in AZ900, AZ400
 <div> 
-  <a href = "https://www.linkedin.com/in/elen-da-silva-23b2a3ab">
-  <img height= "180cm" src = "https://github-readme-stats.vercel.app/api?username=ekarla&show_icons=true&theme=radical"/>
-  <img height= "180cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ekarla&layout=compact&theme=radical"/>   
+  <a href = "https://www.linkedin.com/in/elen-da-silva-23b2a3ab">  
 </div>
   
 <div style = "display: inline_block"><br>
